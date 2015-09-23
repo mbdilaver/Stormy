@@ -11,7 +11,11 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
+<<<<<<< HEAD
             android:name=".ui.MainActivity"
+=======
+            android:name=".MainActivity"
+>>>>>>> 1fe3a1d6df88f05af86fd85175c5f2ece0ccab22
             android:label="@string/app_name"
             android:screenOrientation="portrait">
             <intent-filter>
